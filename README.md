@@ -23,13 +23,23 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## CODE
+
+
 <!DOCTYPE html>
+
 <html lang="en">
+    
 <head>
+    
     <meta charset="UTF-8">
+
+    
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <title>Slot Timetable</title>
+    
     <style>
+    
         .table1{
             background-color: cyan;
             border-color: gray;
@@ -55,9 +65,13 @@ Execute the program using runserver command.
     </style>
 </head>
 <body>
+    
     <img src = "http://training.saveetha.in/pluginfile.php/1/core_admin/logo/0x150/1623542614/logo_1.png" width = "800" height="150">
+    
     <h3 class = "name">SLOT TIMETABLE - S LAKSHMI SRUJANA (212221040143)</h3>
+    
     <table border="1" class = "table1">
+    
         <tr class = "row1">
             <th class="c1">Day/Time</th>
             <th>Monday</th>
