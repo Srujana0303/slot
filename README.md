@@ -164,7 +164,9 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-![Alt text](image.png)
+![image](https://github.com/Srujana0303/slot/assets/132996836/6f60756b-4c9c-4af2-8171-795e4a45c4ce)
+![image](https://github.com/Srujana0303/slot/assets/132996836/c5d232e8-7950-4939-a346-e9c395e7be24)
+
 
 
 ## RESULT
